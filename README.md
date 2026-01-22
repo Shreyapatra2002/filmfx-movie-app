@@ -1,5 +1,7 @@
 🎬 FilmFX - Movie Discovery App
+
 Live Demo: https://filmfx-movie-app.vercel.app
+
 GitHub: https://github.com/Shreyapatra2002/filmfx-movie-app
 
 📱 What It Does
