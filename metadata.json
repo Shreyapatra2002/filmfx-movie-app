@@ -1,0 +1,5 @@
+{
+  "name": "FilmFlex Pro",
+  "description": "A high-performance movie discovery application featuring real-time search, category filtering, watchlist persistence, and smooth GSAP animations.",
+  "requestFramePermissions": []
+}
